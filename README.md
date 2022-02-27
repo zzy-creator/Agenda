@@ -8,7 +8,7 @@
 
 本项目采用**三层架构**
 
-![](img\1.png)
+![](/img/1.png)
 
 **Entity层：**Date、Meeting、User
 
