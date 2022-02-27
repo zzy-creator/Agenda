@@ -10,13 +10,13 @@
 
 ![](/img/1.png)
 
-**Entity层：**Date、Meeting、User
+Entity层：Date、Meeting、User
 
-**DAL层：**Storage
+DAL层：Storage
 
-**BLL层：**AgendaService
+BLL层：AgendaService
 
-**UI层：**AgendaUI
+UI层：AgendaUI
 
 
 
@@ -42,12 +42,12 @@ UI界面具体命令对应功能请参考 *AgendaUI基础约束.pdf*
 
 1.注册一个新用户，username为”z“，password为”1“，email为”2“，phone为”3“
 
-![](img\2.png)
+![](/img/2.png)
 
 2.登录用户”z“，密码为”1“
 
-![](img\3.png)
+![](/img/3.png)
 
 3.登录用户”z“后，成功创建一个会议
 
-![](img\4.png)
+![](/img/4.png)
